@@ -60,3 +60,12 @@ Desde la carpeta raíz del proyecto:
 javac -d out -sourcepath src src/App.java
 java -cp out App
 ```
+
+
+
+## Resultado por consola
+
+<img width="1293" height="587" alt="WhatsApp Image 2026-09-25 at 12 35 10 AM" src="https://github.com/user-attachments/assets/9758a22d-18cb-42e0-a646-a7f731d97a1a" />
+
+<img width="1162" height="604" alt="WhatsApp Image 2026-09-25 at 12 35 37 AM" src="https://github.com/user-attachments/assets/9e9bd407-4c05-4e5c-9f03-62a7c548619b" />
+
